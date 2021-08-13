@@ -1,0 +1,21 @@
+{
+    "name": "Big-Bang-Pitcch-Black-Theme",
+    "displayName": "Big Bang -> Pitch Black Theme",
+    "description": "Full Black Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Big Bang -> Pitch Black Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Big Bang - Pitch Black Theme-color-theme.json"
+            }
+        ]
+    }
+}
